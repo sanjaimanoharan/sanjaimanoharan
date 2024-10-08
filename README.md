@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjai</h1>
-<h3 align="center">Aspiring Web Developer | Java, Python, Spring Boot, React.js | Content Creator</h3>
+<h3 align="center">Aspiring Web Developer | Java, Python, Spring Boot, Angular | Content Creator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaimanoharan&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaimanoharan" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanjueran" target="blank"><img src="https://img.shields.io/twitter/follow/sanjueran?logo=twitter&style=for-the-badge" alt="sanjueran" /></a> </p>
 
-- 🌱 I’m currently learning **Spring boot, React.js, Angular**
+- 🌱 I’m currently learning **Spring boot, Angular**
 
 - 🤝 I’m looking for help with **FullStack Development**
 
